@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "typeRoots": ["./src/@types", "./node_modules/@types"],
+        "isolatedModules": true,
+        "esModuleInterop": true,
+    },
+}
